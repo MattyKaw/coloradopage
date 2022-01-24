@@ -11,14 +11,14 @@ header {
 h1 {
     margin-left: 40px;
     font-size: 66px;
-    background: rgba(0, 0, 0, 0.4);
-    max-width: 375px;
+
+    max-width: 405px;
     text-align: center;
 }
 
 
 .welcome {
-    margin-left: 40px;
+    
 
     background: rgba(0, 0, 0, 0.4)
 }
