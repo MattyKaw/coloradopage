@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica;
+}
+
+header {
+    background: url(./Images/colorado\ nav\ bar.jpg);
+    color: white;
+    background-size: 100%
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    margin: 50px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    transition: 0.55s;
+    margin: auto;
+}
+
+a:hover {
+    background-color: rgb(72, 214, 134) ;
+    color: rgb(0, 36, 0)
+}
+
+.italic {
+    font-style: italic;
+}
+
+main {
+    max-width: 700px;
+    margin: auto;
+	
+}
