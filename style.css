@@ -12,12 +12,14 @@ h1, aside {
     text-align: center;
 }
 h1 span {
-    margin-left: 40px;
+    
     font-size: 66px;
     background: rgba(0, 0, 0, 0.4);
     /* text-align: center; */ <- to tutaj nie zadziała
 }
 aside span{
+    margin-top: 80px;
+    margin-bottom: 80px;
     background: rgba(0, 0, 0, 0.4);
 
 }
